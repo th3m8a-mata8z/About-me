@@ -27,7 +27,7 @@ My work sits at the intersection of engineering, business and automation: connec
 | Area | Technologies and methods |
 | --- | --- |
 | Engineering | Telecommunications, RAN, microwave, TETRA/DMR, control & instrumentation, PLCs, SCADA, telemetry and Industrial IoT |
-| Automation | Python, PowerShell, JavaScript, Node.js and Excel automation |
+| Automation |  Ladder Logic, Structured Text, Function Block Diagram, C/C++, Python, and JavaScript, depending on the application and hardware |
 | Delivery and assurance | Git, GitHub, requirements mapping, evidence registers, document control, automated validation and QA |
 
 ## How I work
